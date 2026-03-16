@@ -14,7 +14,7 @@
 &nbsp;
 ![Status](https://img.shields.io/badge/Estado-Activo_·_Aceptando_Proyectos-1c2333?style=for-the-badge&labelColor=9088c0&color=1c2333)
 &nbsp;
-![WhatsApp](https://img.shields.io/badge/WhatsApp-6680--7102-1c2333?style=for-the-badge&logo=whatsapp&labelColor=25D366&color=1c2333)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-6680--7102_·_7816--4903-1c2333?style=for-the-badge&logo=whatsapp&labelColor=25D366&color=1c2333)
 
 </div>
 
@@ -144,7 +144,9 @@ Kick-off Meeting → Sprint Planning → Desarrollo → Testing (Preproducción)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-6680--7102-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50366807102)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Próximamente-5a9ec8?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-7816--4903-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50378164903)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-contact@vitanetrg.com-5a9ec8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@vitanetrg.com)
 
 **Horario de Atención:**
 Lunes a Viernes `8:00 AM - 6:00 PM` · Sábados `9:00 AM - 1:00 PM`
